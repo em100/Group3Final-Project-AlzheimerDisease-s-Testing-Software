@@ -1,0 +1,1 @@
+The software is designed to provide a comprehensive assessment of Alzheimer's disease risk by integrating cognitive tests, genetic data, and lifestyle factors. By leveraging these multidimensional inputs, the software seeks to enhance early detection and personalized risk evaluation for individuals.
